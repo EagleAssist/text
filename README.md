@@ -4,10 +4,15 @@ Handwritten Text Extraction  is a project designed to recognize and extract text
 ## Project Overview
 
 1.Data Preparation
+
 2.Data Encoding
+
 3.Image Preprocessing
+
 4.Model Training
+
 5.Model Evaluation
+
 ## Requirements
 
 TensorFlow
